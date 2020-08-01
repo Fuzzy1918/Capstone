@@ -1,2 +1,2 @@
 # Capstone
-Lets go
+Lets go HOME
