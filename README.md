@@ -1,3 +1,3 @@
 # Capstone
-Lets go HOME
+Lets go
 Enter scratch work here
